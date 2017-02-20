@@ -61,7 +61,9 @@
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="Lv8-AR-VvF" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" barStyle="blackTranslucent" id="oge-gE-fqb">
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="375" height="667"/>
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" barStyle="blackTranslucent" id="oge-gE-fqb">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                         <color key="barTintColor" red="0.56570935249328613" green="0.3641761839389801" blue="0.69026815891265869" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
